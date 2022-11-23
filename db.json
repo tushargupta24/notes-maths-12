@@ -1,0 +1,147 @@
+{
+
+    "maths-12":[
+        {
+        "id":1,
+        "subject":"maths",
+        "image":"maths",
+        "description":"maths - Class-12, Chapter 1 – Relations and Functions",
+        "download":"assets/images/notes-12/maths-12/chapter-1.pdf",
+        "view":"assets/images/notes-12/maths-12/chapter-1.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":2,
+        "subject":"maths",
+        "image":"maths",
+        "description":"maths - Class-12, Chapter 2 – Inverse Trigonometric Functions",
+        "download":"assets/images/notes-12/maths-12/chapter-3.pdf",
+        "view":"assets/images/notes-12/maths-12/chapter-3.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":3,
+        "subject":"maths",
+        "image":"maths",
+        "description":"maths - Class-12,Chapter 3 – Matrices",
+        "download":"assets/images/notes-12/maths-12/chapter-3.pdf",
+        "view":"assets/images/notes-12/maths-12/chapter-3.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":4,
+        "subject":"maths",
+        "image":"maths",
+        "description":"maths - Class-12, Chapter 4 – Determinants",
+        "download":"assets/images/notes-12/maths-12/chapter-4.pdf",
+        "view":"assets/images/notes-12/maths-12/chapter-4.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":5,
+        "subject":"maths",
+        "image":"maths",
+        "description":"maths - Class-12,Chapter 5 – Continuity and Differentiability",
+        "download":"assets/images/notes-12/maths-12/chapter-5.pdf",
+        "view":"assets/images/notes-12/maths-12/chapter-5.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      }, {
+        "id":6,
+        "subject":"maths",
+        "image":"maths",
+        "description":"maths - Class-12, Chapter 6 – Application of Derivatives",
+        "download":"assets/images/notes-12/maths-12/chapter-6.pdf",
+        "view":"assets/images/notes-12/maths-12/chapter-6.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":7,
+        "subject":"maths",
+        "image":"maths",
+        "description":"maths - Class-12, Chapter 7 – Integrals",
+        "download":"assets/images/notes-12/maths-12/chapter-7.pdf",
+        "view":"assets/images/notes-12/maths-12/chapter-7.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":8,
+        "subject":"maths",
+        "image":"maths",
+        "description":"maths - Class-12, Chapter 8 – Application of Integrals",
+        "download":"assets/images/notes-12/maths-12/chapter-8.pdf",
+        "view":"assets/images/notes-12/maths-12/chapter-8.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":9,
+        "subject":"maths",
+        "image":"maths",
+        "description":"maths - Class-12, Chapter 9 – Differential Equations",
+        "download":"assets/images/notes-12/maths-12/chapter-9.pdf",
+        "view":"assets/images/notes-12/maths-12/chapter-9.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":10,
+        "subject":"maths",
+        "image":"maths",
+        "description":"maths - Class-12, Chapter 10 – Vector Algebra",
+        "download":"assets/images/notes-12/maths-12/chapter-10.pdf",
+        "view":"assets/images/notes-12/maths-12/chapter-10.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      }, {
+        "id":11,
+        "subject":"maths",
+        "image":"maths",
+        "description":"maths - Class-12, Chapter 11 – Three Dimensional Geometry",
+        "download":"assets/images/notes-12/maths-12/chapter-11.pdf",
+        "view":"assets/images/notes-12/maths-12/chapter-11.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":12,
+        "subject":"maths",
+        "image":"maths",
+        "description":"maths - Class-12, Chapter 12 – Linear Programming",
+        "download":"assets/images/notes-12/maths-12/chapter-14.pdf",
+        "view":"assets/images/notes-12/maths-12/chapter-14.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":13,
+        "subject":"maths",
+        "image":"maths",
+        "description":"maths - Class-12, Chapter 13 – Probability",
+        "download":"assets/images/notes-12/maths-12/chapter-15.pdf",
+        "view":"assets/images/notes-12/maths-12/chapter-15.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      }
+    ]
+}
+          	
